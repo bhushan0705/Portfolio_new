@@ -1,4 +1,4 @@
-
+'use client'
 import IconComp from '@/app/components/IconComp';
 import gsap from 'gsap';
 import Link from 'next/link'
