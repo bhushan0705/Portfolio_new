@@ -37,7 +37,7 @@ return (
     
    
     <div className='flex fixed w-full items-center justify-between px-10 py-5 bg-black/50 text-white/70 shadow-md navbar'>
-    <Link href={'#'}>BEN</Link>
+    <Link href={'#'}>BHUSHAN</Link>
     <div>
         <p>bhushan752002@gmail.com</p>
     </div>
